@@ -1,0 +1,665 @@
+{
+  "general": {
+    "id": "3",
+    "form": "self-service1",
+    "onStopBlinking": 2
+  },
+  "oil": [
+    {
+      "id": "Аи92",
+      "name": "92s",
+      "color": "#66be47",
+      "price": "50"
+    },
+    {
+      "id": "Аи95",
+      "name": "95",
+      "color": "#f16e2f",
+      "price": "50"
+    },
+    {
+      "id": "Аи98S",
+      "name": "98S",
+      "color": "#e5b508",
+      "price": "50"
+    },
+    {
+      "id": "ДТ",
+      "name": "ДТ",
+      "color": "#000000",
+      "price": "50"
+    },
+    {
+      "id": "Аи92S",
+      "name": "92S",
+      "color": "#000000",
+      "price": "50"
+    },
+    {
+      "id": "Аи92",
+      "name": "92",
+      "color": "#096711",
+      "price": "50"
+    },
+    {
+      "id": "Аи98",
+      "name": "98",
+      "color": "#41aaf5",
+      "price": "50"
+    }
+  ],
+  "pumps": [
+    {
+      "id": "1",
+      "pistols": [
+        {
+          "id": "1",
+          "oil": "Аи92",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        },
+        {
+          "id": "2",
+          "oil": "Аи95",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        },
+        {
+          "id": "3",
+          "oil": "Аи98S",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        },
+        {
+          "id": "4",
+          "oil": "ДТ",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        },
+        {
+          "id": "5",
+          "oil": "Аи98",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "pistols": [
+        {
+          "id": "1",
+          "oil": "Аи92",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        },
+        {
+          "id": "2",
+          "oil": "Аи95",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        },
+        {
+          "id": "3",
+          "oil": "Аи98S",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        },
+        {
+          "id": "4",
+          "oil": "ДТ",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        },
+        {
+          "id": "5",
+          "oil": "Аи98",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "pistols": [
+        {
+          "id": "1",
+          "oil": "Аи92",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        },
+        {
+          "id": "2",
+          "oil": "Аи98S",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        },
+        {
+          "id": "3",
+          "oil": "ДТ",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        },
+        {
+          "id": "4",
+          "oil": "Аи92S",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        },
+        {
+          "id": "5",
+          "oil": "Аи98",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "pistols": [
+        {
+          "id": "1",
+          "oil": "Аи92",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        },
+        {
+          "id": "2",
+          "oil": "Аи98S",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        },
+        {
+          "id": "3",
+          "oil": "ДТ",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        },
+        {
+          "id": "4",
+          "oil": "Аи92S",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        },
+        {
+          "id": "5",
+          "oil": "Аи98",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "pistols": [
+        {
+          "id": "1",
+          "oil": "Аи95",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 10,
+          "costMax": 100000000,
+          "costDiscrete": 1,
+          "maxCounter": 9999999000
+        },
+        {
+          "id": "2",
+          "oil": "ДТ",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        },
+        {
+          "id": "3",
+          "oil": "Аи92S",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 10,
+          "costMax": 100000000,
+          "costDiscrete": 1,
+          "maxCounter": 9999999000
+        },
+        {
+          "id": "4",
+          "oil": "Аи92",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        },
+        {
+          "id": "5",
+          "oil": "Аи98",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "pistols": [
+        {
+          "id": "1",
+          "oil": "Аи95",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 10,
+          "costMax": 100000000,
+          "costDiscrete": 1,
+          "maxCounter": 9999999000
+        },
+        {
+          "id": "2",
+          "oil": "ДТ",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        },
+        {
+          "id": "3",
+          "oil": "Аи92S",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        },
+        {
+          "id": "4",
+          "oil": "Аи92",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        },
+        {
+          "id": "5",
+          "oil": "Аи98",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "pistols": [
+        {
+          "id": "1",
+          "oil": "Аи92",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        },
+        {
+          "id": "2",
+          "oil": "Аи95",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        },
+        {
+          "id": "3",
+          "oil": "Аи98S",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        },
+        {
+          "id": "4",
+          "oil": "ДТ",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        },
+        {
+          "id": "5",
+          "oil": "Аи98",
+          "oilExp": -3,
+          "currExp": -2,
+          "orderMin": 10,
+          "orderMax": 1000000,
+          "orderDiscrete": 10,
+          "costMin": 0,
+          "costMax": 0,
+          "costDiscrete": 0,
+          "maxCounter": 9999999000
+        }
+      ]
+    }
+  ],
+  "pumpState": [
+    {
+      "id": "1",
+      "pistol": "1",
+      "owner": "0",
+      "initiator": "1",
+      "costOrder": 0,
+      "order": 10,
+      "costSupply": 215.85,
+      "supply": 5,
+      "raise": -1,
+      "state": 0,
+      "err": 0,
+      "pistols": [
+        {
+          "id": "1",
+          "initiator": "2",
+          "owner": "0",
+          "locked": 0
+        },
+        {
+          "id": "2",
+          "initiator": "2",
+          "owner": "0",
+          "locked": 0
+        },
+        {
+          "id": "3",
+          "initiator": "2",
+          "owner": "0",
+          "locked": 0
+        },
+        {
+          "id": "4",
+          "initiator": "0",
+          "owner": "0",
+          "locked": 0
+        },
+        {
+          "id": "5",
+          "initiator": "2",
+          "owner": "0",
+          "locked": 0
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "pistol": "3",
+      "costOrder": 0,
+      "order": 60,
+      "costSupply": 2500.5,
+      "supply": 8.1,
+      "owner": "3",
+      "raise": 3,
+      "state": 0,
+      "initiator": "0"
+    },
+    {
+      "id": "3",
+      "pistol": "1",
+      "costOrder": 0,
+      "order": 20,
+      "costSupply": 375,
+      "supply": 7.5,
+      "owner": "2",
+      "raise": -1,
+      "state": 0,
+      "err": 0,
+      "initiator": "1"
+    },
+    {
+      "id": "4",
+      "pistol": "0",
+      "costOrder": 0,
+      "order": 0,
+      "costSupply": 0,
+      "supply": 0,
+      "owner": "3",
+      "raise": -1,
+      "state": 3,
+      "err": 0,
+      "initiator": "1"
+    },
+    {
+      "id": "5",
+      "pistol": "0",
+      "costOrder": 0,
+      "order": 10,
+      "costSupply": 600,
+      "supply": 10,
+      "owner": "0",
+      "raise": 4,
+      "state": 0,
+      "initiator": "1",
+      "err": 1
+    },
+    {
+      "id": "6",
+      "pistol": "0",
+      "costOrder": 0,
+      "order": 10,
+      "costSupply": 600,
+      "supply": 10,
+      "owner": "0",
+      "raise": 4,
+      "state": 0,
+      "initiator": "1"
+    },
+    {
+      "id": "7",
+      "pistol": "0",
+      "costOrder": 0,
+      "order": 0,
+      "costSupply": 0,
+      "supply": 0,
+      "owner": "0",
+      "raise": -1,
+      "state": 0,
+      "initiator": "0"
+    }
+  ]
+}
